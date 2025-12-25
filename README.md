@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! My name is Antonio Jorge and I'm a Junior Software Developer from Brazil</h3>
+<h3 align="center">Hi 👋! My name is Antonio Jorge and I'm a Software Engineer from Brazil</h3>
 
 ###
 
